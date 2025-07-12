@@ -1,0 +1,12 @@
+---
+title: "Mon petit livre"
+author: "Moi"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output: bookdown::gitbook
+---
+
+# Bienvenue
+
+Ceci est un livre minimal fait avec **bookdown**.

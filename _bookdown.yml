@@ -1,0 +1,8 @@
+book_filename: "mon-petit-livre"
+language:
+  ui:
+    chapter_name: "Chapitre "
+rmd_files:
+  - index.Rmd
+  - 01-intro.Rmd
+output_dir: "_book"
